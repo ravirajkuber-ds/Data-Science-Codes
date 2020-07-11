@@ -7,3 +7,13 @@ The significant issues that come while making this decision are mostly related t
 
 The requirment is to categorise the countries using some socio-economic and health factors that determine the overall development of the country and  to suggest 
 the CEO which countries needs to focus on the most
+
+
+Activities Performed-
+
+1) Data Cleansing/Data Massaging
+2) EDA/ Feature Engineering.
+3) Outlier Analysis
+4) Dimensionality Reduction using PCA.
+5) K-Means Clustering
+6) Hierarchical Clsutering.
