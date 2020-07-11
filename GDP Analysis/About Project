@@ -4,5 +4,13 @@ Since the most common measure of economic development is the GDP, we will analys
 Data Source- 
 The Data for the Above Project was obtained from https://data.gov.in/, an Open Government Data (OGD) platform of India.
 
+Activities Performed-
 
+1) Data Cleansing/Massaging.
+2) Feature Engineering.
+3) EDA Using Charts-
+      a. Heatmaps
+      b. Stacked Bar Graph.
+      c. Line graphs
+      d. Co-Related Heatmaps
 
