@@ -6,3 +6,5 @@ Each Folder in the Repository Contains the following-
 1) Short Project Description
 2) Analysis Report(If Any)
 3) Code  file.
+
+Note- All Codes are Developed on Python 3.x.x, Anaconda Framework.
