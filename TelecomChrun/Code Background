@@ -6,3 +6,20 @@ In the telecom industry, customers are able to choose from multiple service prov
 the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer 
 than to retain an existing one, customer retention has now become even more important than customer acquisition.
 
+
+About the Implementation-
+The following Activites are performed in the Code-
+
+1) EDA 
+2) Data Cleansing/Data Massaging
+3) Feature Engineering.
+4) Implementation of Dimensionality Reduction Technique,using PCA
+5) Churn Prediction using Decision Tree
+        a. Using GridSearch CV for identifying Optimal Hyperparameters.
+        b. Manually Defining Ranges for Various Hyperparameters.
+6) Churn Prediction Using Random Forest-
+        a. Using GridSearch CV for identifying Optimal Hyperparameters.
+        b. Manually Defining Ranges for Various Hyperparameters.
+7) Churn Prediction using Logistic Regression,with Hyperparameter Tuning.
+8) Model Evaluation
+9) Identifying  Top Predictor Variables.
