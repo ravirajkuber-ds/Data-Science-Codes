@@ -6,4 +6,8 @@ the actual value of the prospective properties and decide whether to invest in t
 
 Activities Performed-
 
-1) 
+1) Data Cleansing / Data Massaging.
+2) EDA / Feature Engineering.
+3) Implementing Ridge Regression using Grid Search CV for Optimal Hyperparamter Value.
+4) Implementing Lasso Regression using Grid Search CV for Optimal Hyperparamter Value.
+5) Determing the Changes in model behaviour if the value of Alpha (Hyperparamter) is doubled.
